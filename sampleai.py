@@ -20,6 +20,7 @@ day = today.strftime(" %d %B, %Y")
 
 def speak(text):
     engine.say(text)
+    print(text)
     engine.runAndWait()
 
 def takeCommand():
