@@ -2,4 +2,4 @@ In this file I made a simple demo ai program in which it execute given task such
 It could also speak.
 Whenever you will start the program it will greet you.
 To open an application I have given the target location to it as per in my pc ,you may put your target location to open those application.
-if ypu want to serach anything it will search for you.
+if you want to serach anything it will search for you.
